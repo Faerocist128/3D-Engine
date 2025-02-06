@@ -4,8 +4,8 @@
 
 
 //x is w, y is h, z is depth
-let w = 700;//dictates the dimensions of our 2d screen
-let h = 550;
+let w = 1000;//dictates the dimensions of our 2d screen
+let h = 1000;
 let n = [0,0,500];//normal vector of cam plane
 let o = [100,100,-200];//start point for cam
 let xax = [];
